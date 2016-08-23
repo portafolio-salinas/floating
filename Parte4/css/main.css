@@ -1,1 +1,22 @@
-/* Pon tu código css aqui */
+.exterior{
+	width: 500px;
+	height: 300px;
+	border: black solid;
+}
+.yellow {
+	background: #FFFC19;
+}
+.blue{
+	background: #0B38BA;
+}
+.pink {
+	background: #F60D49;
+}
+.yellow,.blue,.pink {
+	width: 25%;
+	height: 100px;
+	float: right;
+}
+.clearfix {
+	overflow : auto ; 
+}/* Pon tu código css aqui */
